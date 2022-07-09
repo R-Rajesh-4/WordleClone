@@ -1,1 +1,2 @@
-# WordleClone
+# Boredle
+Boring Clone of Wordle
